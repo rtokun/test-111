@@ -15,7 +15,7 @@ jobs:
           java-version: 1.8
 
       - name: Restore release keystore
-        run: echo "${{ secrets.ENCODED_KEYSTORE }}" | base64 --decode > keystore.release
+        run: echo "${{ secrets.ENCODED_KEYSTORE }}" | base64 --decode > app/keystore.release
 
       - name: Generate APK
         run: ./gradlew assembleRelease
