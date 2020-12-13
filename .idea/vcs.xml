@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android-Pagination-with-RecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AnyDoTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BottomSheetSample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatKit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CollectionWidgetTutorial-TodoApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoordinatorBehaviorExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoordinatorBehaviorExample3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fundamentals-cycle-7_back" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GroceryStore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GroceryStore2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ModularizationExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PagingRoomCustomItemKeyedDataSourceExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Paging_3_0_Example/android-paging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Rocket.Chat.Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ServiceNowStarterProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleCalculator/remote" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spotlight" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TakeAwayRestaraunts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TelegramSrc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/billing/play-billing-scalable-kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/covid_19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitter-android-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/glb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/google-coroutines/kotlin-coroutines" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kmm-a-multiplatform-adventure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/koin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/paging_example/android-paging" vcs="Git" />
+  </component>
+</project>
